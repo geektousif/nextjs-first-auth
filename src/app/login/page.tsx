@@ -60,7 +60,7 @@ export default function SignupPage() {
             {loading ? "PRoceesssing" : "Log In to your account"}
           </h2>
           <p className="mt-2 text-base text-center text-gray-600">
-            Don't Have an Account?
+            Don&apos;t Have an Account?
             <Link href="/signup">
               <span className="font-medium text-black transition-all duration-200 hover:underline">
                 Sign Up Here
